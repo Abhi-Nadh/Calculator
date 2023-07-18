@@ -14,7 +14,7 @@ class calculator:
         return self.num2/self.num2
 
 num1=int(input("enter first number: "))
-num2=int(input("enter second number: 2nd  "))
+num2=int(input("enter second number: "))
 object=calculator(num1,num2)
 choice=1
 while choice!=0:
