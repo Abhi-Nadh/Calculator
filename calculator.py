@@ -13,7 +13,7 @@ class calculator:
     def division(self):
         return self.num2/self.num2
 
-num1=int(input("enter first number: "))
+num1=int(input("enter first number: Hello "))
 num2=int(input("enter second number: "))
 object=calculator(num1,num2)
 choice=1
