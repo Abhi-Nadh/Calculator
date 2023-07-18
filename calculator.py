@@ -12,7 +12,6 @@ class calculator:
         return self.num1*self.num2
     def division(self):
         return self.num2/self.num2
-print("Calculator")
 num1=int(input("enter first number: "))
 num2=int(input("enter second number: "))
 object=calculator(num1,num2)
